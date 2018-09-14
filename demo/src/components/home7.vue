@@ -33,6 +33,9 @@
                 </div>
 
             </div>    
+            <!-- <div style="padding:500px 0">
+              <carousel></carousel>
+            </div> -->
             
           </div>
             
@@ -42,13 +45,17 @@
     </template>
     
     <script>
+    import carousel from './carousel'
     export default {
       name: "home7",
-    
+      components:{carousel}
+      ,
       data() {
         return {
-    
+          invTime: 2000,
+               
         };
+        
     
         methods: {
           //华制简介背景图旋转180度
@@ -56,7 +63,11 @@
     
     
         }
-      }
+        
+      },
+      components: {
+            carousel
+        }
     
     }
     </script>

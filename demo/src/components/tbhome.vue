@@ -142,27 +142,29 @@
                                         <div class="header_conent_01">
                                             <ul>
                                                 <li>
-                                                    <a href="">标准产品</a>
+                                                    <a href="">高校资源</a>
                                                 </li>
                                                 <li>
-                                                    <a href="">定制产品</a>
+                                                    <a href="">企业资源</a>
                                                 </li>
-
+                                                <li>
+                                                    <a href="">诺奖师资</a>
+                                                </li>
                                             </ul>
 
                                         </div>
                                         <div class="header_conent_02">
                                             <div class="header_conent_02_1">
-                                                <img src="../assets/img/himg21.png" alt="" class="imgft">
-                                                <h6>新加坡 6天5夜6.10-15</h6>
-                                                <p>颠覆世界的下一个科技史诗</p>
-                                                <p>—— 新加坡区块链认知重启游学之旅 </p>
+                                                <img src="http://www.miciall.com/Public/Uploads/uploadfile/images/20180605/20180605151647_5b1638df389af.png" alt="" class="imgft">
+                                                <h6>2018-5-25</h6>
+                                                <p><p>硅谷人工智能未来探索之旅</p></p>
+                                                
                                             </div>
                                             <div class="header_conent_02_1">
-                                                <img src="../assets/img/himg22.png" alt="" class="imgft">
-                                                <h6>日本 名古屋 8天7夜</h6>
-                                                <p>精益溯源，以TPS密码实施再造升级</p>
-                                                <p>—— 日本丰田精益标杆游学之旅 </p>
+                                                <img src="http://www.miciall.com/Public/Uploads/uploadfile/images/20180605/20180605151720_5b16390003331.png" alt="" class="imgft">
+                                                <h6>2018-5-25</h6>
+                                                <p>德国工业4.0“智能制造”研修之旅</p>
+                                                
                                             </div>
 
                                         </div>
@@ -194,10 +196,10 @@
                                         <div class="header_conent_01">
                                             <ul>
                                                 <li>
-                                                    <a href="">标准产品</a>
+                                                    <a href="">企业活动</a>
                                                 </li>
                                                 <li>
-                                                    <a href="">定制产品</a>
+                                                    <a href="">出团报道</a>
                                                 </li>
 
                                             </ul>
