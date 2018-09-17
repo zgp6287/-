@@ -1,7 +1,7 @@
 <template>
         <!-- 制作一个框架包裹slider -->
         <div class="body">
-            <div style="width: 30%;margin:20px auto;height:300px">
+            <div style="width: 100%;margin:20px auto;height:660px">
                 <!-- 配置slider组件 -->
                 <slider ref="slider" :options="options" @slide='slide' @tap='onTap' @init='onInit'>
                     <!-- 直接使用slideritem slot -->
@@ -12,29 +12,6 @@
                 </slider>
                 
             </div>
-
-            <div style="width: 70%;margin:20px auto;height:300px">
-                    <!-- 配置slider组件 -->
-                    <slider ref="slider" :options="options" @slide='slide' @tap='onTap' @init='onInit'>
-                        <!-- 直接使用 slideritem slot -->
-                        <slideritem class="lunb" style="width:25%;">1111111</slideritem>
-                        <slideritem class="lunb" style="width:25%;">222222</slideritem>
-                        <slideritem class="lunb" style="width:25%;">3333333</slideritem>
-                        <slideritem class="lunb" style="width:25%;">4444444</slideritem>
-                        <slideritem class="lunb" style="width:25%;">55555555</slideritem>
-                        <slideritem class="lunb" style="width:25%;">66666666</slideritem>
-                        <slideritem class="lunb" style="width:25%;">7777777</slideritem>
-                        <slideritem class="lunb" style="width:25%;">8888888</slideritem>
-                        <slideritem class="lunb" style="width:25%;">999999</slideritem>
-                        <slideritem class="lunb" style="width:25%;">1010101101</slideritem>
-                        
-                        
-                        <!-- <slideritem v-for="(item,index) in someList" :key="index" :style="item.style" style="width: 100%;">{{item.html}}</slideritem> -->
-                        <!-- 设置loading,可自定义 -->
-                        <div slot="loading">loading...</div>
-                    </slider>
-                    
-                </div>
             
                 
    
